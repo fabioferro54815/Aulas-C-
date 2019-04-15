@@ -1,0 +1,11 @@
+D:\aula c#\TsuksAirlines\bin\Debug\netcoreapp2.1\TsuksAirlines.deps.json
+D:\aula c#\TsuksAirlines\bin\Debug\netcoreapp2.1\TsuksAirlines.runtimeconfig.json
+D:\aula c#\TsuksAirlines\bin\Debug\netcoreapp2.1\TsuksAirlines.runtimeconfig.dev.json
+D:\aula c#\TsuksAirlines\bin\Debug\netcoreapp2.1\TsuksAirlines.dll
+D:\aula c#\TsuksAirlines\bin\Debug\netcoreapp2.1\TsuksAirlines.pdb
+D:\aula c#\TsuksAirlines\obj\Debug\netcoreapp2.1\TsuksAirlines.csprojAssemblyReference.cache
+D:\aula c#\TsuksAirlines\obj\Debug\netcoreapp2.1\TsuksAirlines.csproj.CoreCompileInputs.cache
+D:\aula c#\TsuksAirlines\obj\Debug\netcoreapp2.1\TsuksAirlines.AssemblyInfoInputs.cache
+D:\aula c#\TsuksAirlines\obj\Debug\netcoreapp2.1\TsuksAirlines.AssemblyInfo.cs
+D:\aula c#\TsuksAirlines\obj\Debug\netcoreapp2.1\TsuksAirlines.dll
+D:\aula c#\TsuksAirlines\obj\Debug\netcoreapp2.1\TsuksAirlines.pdb

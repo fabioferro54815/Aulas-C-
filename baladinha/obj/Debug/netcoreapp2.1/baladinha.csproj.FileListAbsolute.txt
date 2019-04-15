@@ -1,0 +1,11 @@
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\bin\Debug\netcoreapp2.1\baladinha.deps.json
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\bin\Debug\netcoreapp2.1\baladinha.runtimeconfig.json
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\bin\Debug\netcoreapp2.1\baladinha.runtimeconfig.dev.json
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\bin\Debug\netcoreapp2.1\baladinha.dll
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\bin\Debug\netcoreapp2.1\baladinha.pdb
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\obj\Debug\netcoreapp2.1\baladinha.csprojAssemblyReference.cache
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\obj\Debug\netcoreapp2.1\baladinha.csproj.CoreCompileInputs.cache
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\obj\Debug\netcoreapp2.1\baladinha.AssemblyInfoInputs.cache
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\obj\Debug\netcoreapp2.1\baladinha.AssemblyInfo.cs
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\obj\Debug\netcoreapp2.1\baladinha.dll
+C:\Users\39298212810\Desktop\Fabio\aula c#\baladinha\obj\Debug\netcoreapp2.1\baladinha.pdb

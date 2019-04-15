@@ -1,0 +1,11 @@
+D:\aula c#\exdowhile\bin\Debug\netcoreapp2.1\exdowhile.deps.json
+D:\aula c#\exdowhile\bin\Debug\netcoreapp2.1\exdowhile.runtimeconfig.json
+D:\aula c#\exdowhile\bin\Debug\netcoreapp2.1\exdowhile.runtimeconfig.dev.json
+D:\aula c#\exdowhile\bin\Debug\netcoreapp2.1\exdowhile.dll
+D:\aula c#\exdowhile\bin\Debug\netcoreapp2.1\exdowhile.pdb
+D:\aula c#\exdowhile\obj\Debug\netcoreapp2.1\exdowhile.csprojAssemblyReference.cache
+D:\aula c#\exdowhile\obj\Debug\netcoreapp2.1\exdowhile.csproj.CoreCompileInputs.cache
+D:\aula c#\exdowhile\obj\Debug\netcoreapp2.1\exdowhile.AssemblyInfoInputs.cache
+D:\aula c#\exdowhile\obj\Debug\netcoreapp2.1\exdowhile.AssemblyInfo.cs
+D:\aula c#\exdowhile\obj\Debug\netcoreapp2.1\exdowhile.dll
+D:\aula c#\exdowhile\obj\Debug\netcoreapp2.1\exdowhile.pdb

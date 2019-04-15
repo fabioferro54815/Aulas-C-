@@ -1,0 +1,11 @@
+D:\aula c#\mediavetor\obj\Debug\netcoreapp2.1\mediavetor.csprojAssemblyReference.cache
+D:\aula c#\mediavetor\obj\Debug\netcoreapp2.1\mediavetor.csproj.CoreCompileInputs.cache
+D:\aula c#\mediavetor\obj\Debug\netcoreapp2.1\mediavetor.AssemblyInfoInputs.cache
+D:\aula c#\mediavetor\obj\Debug\netcoreapp2.1\mediavetor.AssemblyInfo.cs
+D:\aula c#\mediavetor\bin\Debug\netcoreapp2.1\mediavetor.deps.json
+D:\aula c#\mediavetor\bin\Debug\netcoreapp2.1\mediavetor.runtimeconfig.json
+D:\aula c#\mediavetor\bin\Debug\netcoreapp2.1\mediavetor.runtimeconfig.dev.json
+D:\aula c#\mediavetor\bin\Debug\netcoreapp2.1\mediavetor.dll
+D:\aula c#\mediavetor\bin\Debug\netcoreapp2.1\mediavetor.pdb
+D:\aula c#\mediavetor\obj\Debug\netcoreapp2.1\mediavetor.dll
+D:\aula c#\mediavetor\obj\Debug\netcoreapp2.1\mediavetor.pdb

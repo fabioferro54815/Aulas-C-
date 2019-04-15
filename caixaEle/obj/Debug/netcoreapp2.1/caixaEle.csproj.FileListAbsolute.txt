@@ -1,0 +1,11 @@
+D:\aula c#\caixaEle\bin\Debug\netcoreapp2.1\caixaEle.deps.json
+D:\aula c#\caixaEle\bin\Debug\netcoreapp2.1\caixaEle.runtimeconfig.json
+D:\aula c#\caixaEle\bin\Debug\netcoreapp2.1\caixaEle.runtimeconfig.dev.json
+D:\aula c#\caixaEle\bin\Debug\netcoreapp2.1\caixaEle.dll
+D:\aula c#\caixaEle\bin\Debug\netcoreapp2.1\caixaEle.pdb
+D:\aula c#\caixaEle\obj\Debug\netcoreapp2.1\caixaEle.csprojAssemblyReference.cache
+D:\aula c#\caixaEle\obj\Debug\netcoreapp2.1\caixaEle.csproj.CoreCompileInputs.cache
+D:\aula c#\caixaEle\obj\Debug\netcoreapp2.1\caixaEle.AssemblyInfoInputs.cache
+D:\aula c#\caixaEle\obj\Debug\netcoreapp2.1\caixaEle.AssemblyInfo.cs
+D:\aula c#\caixaEle\obj\Debug\netcoreapp2.1\caixaEle.dll
+D:\aula c#\caixaEle\obj\Debug\netcoreapp2.1\caixaEle.pdb

@@ -1,0 +1,11 @@
+D:\aula c#\calcuPessoas\obj\Debug\netcoreapp2.1\calcuPessoas.csprojAssemblyReference.cache
+D:\aula c#\calcuPessoas\obj\Debug\netcoreapp2.1\calcuPessoas.csproj.CoreCompileInputs.cache
+D:\aula c#\calcuPessoas\obj\Debug\netcoreapp2.1\calcuPessoas.AssemblyInfoInputs.cache
+D:\aula c#\calcuPessoas\obj\Debug\netcoreapp2.1\calcuPessoas.AssemblyInfo.cs
+D:\aula c#\calcuPessoas\bin\Debug\netcoreapp2.1\calcuPessoas.deps.json
+D:\aula c#\calcuPessoas\bin\Debug\netcoreapp2.1\calcuPessoas.runtimeconfig.json
+D:\aula c#\calcuPessoas\bin\Debug\netcoreapp2.1\calcuPessoas.runtimeconfig.dev.json
+D:\aula c#\calcuPessoas\bin\Debug\netcoreapp2.1\calcuPessoas.dll
+D:\aula c#\calcuPessoas\bin\Debug\netcoreapp2.1\calcuPessoas.pdb
+D:\aula c#\calcuPessoas\obj\Debug\netcoreapp2.1\calcuPessoas.dll
+D:\aula c#\calcuPessoas\obj\Debug\netcoreapp2.1\calcuPessoas.pdb

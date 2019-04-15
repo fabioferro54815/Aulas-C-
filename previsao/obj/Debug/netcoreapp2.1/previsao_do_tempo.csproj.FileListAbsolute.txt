@@ -1,0 +1,11 @@
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\bin\Debug\netcoreapp2.1\previsao_do_tempo.deps.json
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\bin\Debug\netcoreapp2.1\previsao_do_tempo.runtimeconfig.json
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\bin\Debug\netcoreapp2.1\previsao_do_tempo.runtimeconfig.dev.json
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\bin\Debug\netcoreapp2.1\previsao_do_tempo.dll
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\bin\Debug\netcoreapp2.1\previsao_do_tempo.pdb
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\obj\Debug\netcoreapp2.1\previsao_do_tempo.csprojAssemblyReference.cache
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\obj\Debug\netcoreapp2.1\previsao_do_tempo.csproj.CoreCompileInputs.cache
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\obj\Debug\netcoreapp2.1\previsao_do_tempo.AssemblyInfoInputs.cache
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\obj\Debug\netcoreapp2.1\previsao_do_tempo.AssemblyInfo.cs
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\obj\Debug\netcoreapp2.1\previsao_do_tempo.dll
+C:\Users\39298212810\Desktop\Fabio\aula c#\previsao_do_tempo\obj\Debug\netcoreapp2.1\previsao_do_tempo.pdb

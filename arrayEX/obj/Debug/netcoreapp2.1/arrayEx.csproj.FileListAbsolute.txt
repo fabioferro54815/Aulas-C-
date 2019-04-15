@@ -1,0 +1,11 @@
+D:\aula c#\arrayEx\obj\Debug\netcoreapp2.1\arrayEx.csprojAssemblyReference.cache
+D:\aula c#\arrayEx\obj\Debug\netcoreapp2.1\arrayEx.csproj.CoreCompileInputs.cache
+D:\aula c#\arrayEx\obj\Debug\netcoreapp2.1\arrayEx.AssemblyInfoInputs.cache
+D:\aula c#\arrayEx\obj\Debug\netcoreapp2.1\arrayEx.AssemblyInfo.cs
+D:\aula c#\arrayEx\bin\Debug\netcoreapp2.1\arrayEx.deps.json
+D:\aula c#\arrayEx\bin\Debug\netcoreapp2.1\arrayEx.runtimeconfig.json
+D:\aula c#\arrayEx\bin\Debug\netcoreapp2.1\arrayEx.runtimeconfig.dev.json
+D:\aula c#\arrayEx\bin\Debug\netcoreapp2.1\arrayEx.dll
+D:\aula c#\arrayEx\bin\Debug\netcoreapp2.1\arrayEx.pdb
+D:\aula c#\arrayEx\obj\Debug\netcoreapp2.1\arrayEx.dll
+D:\aula c#\arrayEx\obj\Debug\netcoreapp2.1\arrayEx.pdb

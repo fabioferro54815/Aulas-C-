@@ -1,0 +1,11 @@
+D:\aula c#\pi\bin\Debug\netcoreapp2.1\pi.deps.json
+D:\aula c#\pi\bin\Debug\netcoreapp2.1\pi.runtimeconfig.json
+D:\aula c#\pi\bin\Debug\netcoreapp2.1\pi.runtimeconfig.dev.json
+D:\aula c#\pi\bin\Debug\netcoreapp2.1\pi.dll
+D:\aula c#\pi\bin\Debug\netcoreapp2.1\pi.pdb
+D:\aula c#\pi\obj\Debug\netcoreapp2.1\pi.csprojAssemblyReference.cache
+D:\aula c#\pi\obj\Debug\netcoreapp2.1\pi.csproj.CoreCompileInputs.cache
+D:\aula c#\pi\obj\Debug\netcoreapp2.1\pi.AssemblyInfoInputs.cache
+D:\aula c#\pi\obj\Debug\netcoreapp2.1\pi.AssemblyInfo.cs
+D:\aula c#\pi\obj\Debug\netcoreapp2.1\pi.dll
+D:\aula c#\pi\obj\Debug\netcoreapp2.1\pi.pdb

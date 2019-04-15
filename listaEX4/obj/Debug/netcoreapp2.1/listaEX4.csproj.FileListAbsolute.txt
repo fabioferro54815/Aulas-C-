@@ -1,0 +1,4 @@
+D:\aula c#\listaEX4\obj\Debug\netcoreapp2.1\listaEX4.csprojAssemblyReference.cache
+D:\aula c#\listaEX4\obj\Debug\netcoreapp2.1\listaEX4.csproj.CoreCompileInputs.cache
+D:\aula c#\listaEX4\obj\Debug\netcoreapp2.1\listaEX4.AssemblyInfoInputs.cache
+D:\aula c#\listaEX4\obj\Debug\netcoreapp2.1\listaEX4.AssemblyInfo.cs

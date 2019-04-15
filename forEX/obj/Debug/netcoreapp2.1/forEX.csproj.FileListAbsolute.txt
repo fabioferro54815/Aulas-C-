@@ -1,0 +1,11 @@
+D:\aula c#\forEX\bin\Debug\netcoreapp2.1\forEX.deps.json
+D:\aula c#\forEX\bin\Debug\netcoreapp2.1\forEX.runtimeconfig.json
+D:\aula c#\forEX\bin\Debug\netcoreapp2.1\forEX.runtimeconfig.dev.json
+D:\aula c#\forEX\bin\Debug\netcoreapp2.1\forEX.dll
+D:\aula c#\forEX\bin\Debug\netcoreapp2.1\forEX.pdb
+D:\aula c#\forEX\obj\Debug\netcoreapp2.1\forEX.csprojAssemblyReference.cache
+D:\aula c#\forEX\obj\Debug\netcoreapp2.1\forEX.csproj.CoreCompileInputs.cache
+D:\aula c#\forEX\obj\Debug\netcoreapp2.1\forEX.AssemblyInfoInputs.cache
+D:\aula c#\forEX\obj\Debug\netcoreapp2.1\forEX.AssemblyInfo.cs
+D:\aula c#\forEX\obj\Debug\netcoreapp2.1\forEX.dll
+D:\aula c#\forEX\obj\Debug\netcoreapp2.1\forEX.pdb

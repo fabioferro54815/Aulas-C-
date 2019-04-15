@@ -1,0 +1,11 @@
+D:\aula c#\calcuPessoasComplexo\bin\Debug\netcoreapp2.1\calcuPessoasComplexo.deps.json
+D:\aula c#\calcuPessoasComplexo\bin\Debug\netcoreapp2.1\calcuPessoasComplexo.runtimeconfig.json
+D:\aula c#\calcuPessoasComplexo\bin\Debug\netcoreapp2.1\calcuPessoasComplexo.runtimeconfig.dev.json
+D:\aula c#\calcuPessoasComplexo\bin\Debug\netcoreapp2.1\calcuPessoasComplexo.dll
+D:\aula c#\calcuPessoasComplexo\bin\Debug\netcoreapp2.1\calcuPessoasComplexo.pdb
+D:\aula c#\calcuPessoasComplexo\obj\Debug\netcoreapp2.1\calcuPessoasComplexo.csprojAssemblyReference.cache
+D:\aula c#\calcuPessoasComplexo\obj\Debug\netcoreapp2.1\calcuPessoasComplexo.csproj.CoreCompileInputs.cache
+D:\aula c#\calcuPessoasComplexo\obj\Debug\netcoreapp2.1\calcuPessoasComplexo.AssemblyInfoInputs.cache
+D:\aula c#\calcuPessoasComplexo\obj\Debug\netcoreapp2.1\calcuPessoasComplexo.AssemblyInfo.cs
+D:\aula c#\calcuPessoasComplexo\obj\Debug\netcoreapp2.1\calcuPessoasComplexo.dll
+D:\aula c#\calcuPessoasComplexo\obj\Debug\netcoreapp2.1\calcuPessoasComplexo.pdb

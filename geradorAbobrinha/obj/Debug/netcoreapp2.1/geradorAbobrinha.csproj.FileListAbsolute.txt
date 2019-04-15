@@ -1,0 +1,11 @@
+D:\aula c#\geradorAbobrinha\bin\Debug\netcoreapp2.1\geradorAbobrinha.deps.json
+D:\aula c#\geradorAbobrinha\bin\Debug\netcoreapp2.1\geradorAbobrinha.runtimeconfig.json
+D:\aula c#\geradorAbobrinha\bin\Debug\netcoreapp2.1\geradorAbobrinha.runtimeconfig.dev.json
+D:\aula c#\geradorAbobrinha\bin\Debug\netcoreapp2.1\geradorAbobrinha.dll
+D:\aula c#\geradorAbobrinha\bin\Debug\netcoreapp2.1\geradorAbobrinha.pdb
+D:\aula c#\geradorAbobrinha\obj\Debug\netcoreapp2.1\geradorAbobrinha.csprojAssemblyReference.cache
+D:\aula c#\geradorAbobrinha\obj\Debug\netcoreapp2.1\geradorAbobrinha.csproj.CoreCompileInputs.cache
+D:\aula c#\geradorAbobrinha\obj\Debug\netcoreapp2.1\geradorAbobrinha.AssemblyInfoInputs.cache
+D:\aula c#\geradorAbobrinha\obj\Debug\netcoreapp2.1\geradorAbobrinha.AssemblyInfo.cs
+D:\aula c#\geradorAbobrinha\obj\Debug\netcoreapp2.1\geradorAbobrinha.dll
+D:\aula c#\geradorAbobrinha\obj\Debug\netcoreapp2.1\geradorAbobrinha.pdb

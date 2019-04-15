@@ -1,0 +1,11 @@
+D:\aula c#\passagem\bin\Debug\netcoreapp2.1\passagem.deps.json
+D:\aula c#\passagem\bin\Debug\netcoreapp2.1\passagem.runtimeconfig.json
+D:\aula c#\passagem\bin\Debug\netcoreapp2.1\passagem.runtimeconfig.dev.json
+D:\aula c#\passagem\bin\Debug\netcoreapp2.1\passagem.dll
+D:\aula c#\passagem\bin\Debug\netcoreapp2.1\passagem.pdb
+D:\aula c#\passagem\obj\Debug\netcoreapp2.1\passagem.csprojAssemblyReference.cache
+D:\aula c#\passagem\obj\Debug\netcoreapp2.1\passagem.csproj.CoreCompileInputs.cache
+D:\aula c#\passagem\obj\Debug\netcoreapp2.1\passagem.AssemblyInfoInputs.cache
+D:\aula c#\passagem\obj\Debug\netcoreapp2.1\passagem.AssemblyInfo.cs
+D:\aula c#\passagem\obj\Debug\netcoreapp2.1\passagem.dll
+D:\aula c#\passagem\obj\Debug\netcoreapp2.1\passagem.pdb

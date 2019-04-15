@@ -1,0 +1,11 @@
+D:\aula c#\forDuplo\obj\Debug\netcoreapp2.1\forDuplo.csprojAssemblyReference.cache
+D:\aula c#\forDuplo\obj\Debug\netcoreapp2.1\forDuplo.csproj.CoreCompileInputs.cache
+D:\aula c#\forDuplo\obj\Debug\netcoreapp2.1\forDuplo.AssemblyInfoInputs.cache
+D:\aula c#\forDuplo\obj\Debug\netcoreapp2.1\forDuplo.AssemblyInfo.cs
+D:\aula c#\forDuplo\bin\Debug\netcoreapp2.1\forDuplo.deps.json
+D:\aula c#\forDuplo\bin\Debug\netcoreapp2.1\forDuplo.runtimeconfig.json
+D:\aula c#\forDuplo\bin\Debug\netcoreapp2.1\forDuplo.runtimeconfig.dev.json
+D:\aula c#\forDuplo\bin\Debug\netcoreapp2.1\forDuplo.dll
+D:\aula c#\forDuplo\bin\Debug\netcoreapp2.1\forDuplo.pdb
+D:\aula c#\forDuplo\obj\Debug\netcoreapp2.1\forDuplo.dll
+D:\aula c#\forDuplo\obj\Debug\netcoreapp2.1\forDuplo.pdb
