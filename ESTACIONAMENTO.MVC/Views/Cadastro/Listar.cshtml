@@ -1,0 +1,37 @@
+@using ESTACIONAMENTO.MVC.Models;
+
+@{
+    Layout = "MasterPage";
+    ViewBag.Title = "Registros dos carros";
+
+}
+<h2>Carros Cadastrados</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Placa</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+        </tr>
+            <label>
+                Buscar pela data:
+                <input  type="date" name="dataentrada" class="form-control">
+            </label>
+            <input type="submit" value="Buscar" class="btn btn-primary">
+    </thead>
+    <tbody>
+        @foreach(var item in ViewData["Cadastro"] as List<Cadastro>)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Carro.NomeDono</td>
+                    <td>@item.Carro.Placa</td>
+                    <td>@item.Marca.Nome</td>
+                    <td>@item.Modelo.Nome</td>
+                    <td>@item.DataEntrada</td>
+                </tr>
+            }
+    </tbody>
+</table>

@@ -1,0 +1,30 @@
+@model CorrecaoWeb.ViewModel.HomeViewModel;
+@{
+    Layout = "_Layout";
+}
+<h1>Estacionamento TSUKAR</h1>
+
+<form action="Home/RegistrarEntrada">
+    <label for="nome">Nome</label>
+    <input type="text" name="nome">
+    
+    <label for="marca">Marca do Veículo</label>
+    <select name="marca">
+        <option value="" disabled>Selecione</option>
+        @foreach(var item in Model.Marcas){
+            <option value="@item.Nome">@item.Nome</option>
+        }
+    </select>
+
+    <label for="modelo">Modelo do Veículo</label>
+    <select name="modelo">
+        @foreach(var item in Model.Modelos){
+            <option value="@item.Nome">@item.Nome</option>
+        }
+    </select>
+
+    <label for="placa">Placa</label>
+    <input type="text" name="placa">
+
+    <input type="submit" value="Registrar">
+</form>

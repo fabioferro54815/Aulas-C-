@@ -1,0 +1,11 @@
+D:\aula c#\Finança_de_mesa.MVC\bin\Debug\netcoreapp2.1\Finança_de_mesa.MVC.deps.json
+D:\aula c#\Finança_de_mesa.MVC\bin\Debug\netcoreapp2.1\Finança_de_mesa.MVC.runtimeconfig.json
+D:\aula c#\Finança_de_mesa.MVC\bin\Debug\netcoreapp2.1\Finança_de_mesa.MVC.runtimeconfig.dev.json
+D:\aula c#\Finança_de_mesa.MVC\bin\Debug\netcoreapp2.1\Finança_de_mesa.MVC.dll
+D:\aula c#\Finança_de_mesa.MVC\bin\Debug\netcoreapp2.1\Finança_de_mesa.MVC.pdb
+D:\aula c#\Finança_de_mesa.MVC\obj\Debug\netcoreapp2.1\Finança_de_mesa.MVC.csprojAssemblyReference.cache
+D:\aula c#\Finança_de_mesa.MVC\obj\Debug\netcoreapp2.1\Finança_de_mesa.MVC.csproj.CoreCompileInputs.cache
+D:\aula c#\Finança_de_mesa.MVC\obj\Debug\netcoreapp2.1\Finança_de_mesa.MVC.AssemblyInfoInputs.cache
+D:\aula c#\Finança_de_mesa.MVC\obj\Debug\netcoreapp2.1\Finança_de_mesa.MVC.AssemblyInfo.cs
+D:\aula c#\Finança_de_mesa.MVC\obj\Debug\netcoreapp2.1\Finança_de_mesa.MVC.dll
+D:\aula c#\Finança_de_mesa.MVC\obj\Debug\netcoreapp2.1\Finança_de_mesa.MVC.pdb

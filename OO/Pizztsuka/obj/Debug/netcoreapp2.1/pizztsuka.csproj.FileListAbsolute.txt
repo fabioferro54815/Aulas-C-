@@ -1,0 +1,11 @@
+D:\aula c#\Aulas-C-\OO\pizztsuka\bin\Debug\netcoreapp2.1\pizztsuka.deps.json
+D:\aula c#\Aulas-C-\OO\pizztsuka\bin\Debug\netcoreapp2.1\pizztsuka.runtimeconfig.json
+D:\aula c#\Aulas-C-\OO\pizztsuka\bin\Debug\netcoreapp2.1\pizztsuka.runtimeconfig.dev.json
+D:\aula c#\Aulas-C-\OO\pizztsuka\bin\Debug\netcoreapp2.1\pizztsuka.dll
+D:\aula c#\Aulas-C-\OO\pizztsuka\bin\Debug\netcoreapp2.1\pizztsuka.pdb
+D:\aula c#\Aulas-C-\OO\pizztsuka\obj\Debug\netcoreapp2.1\pizztsuka.csprojAssemblyReference.cache
+D:\aula c#\Aulas-C-\OO\pizztsuka\obj\Debug\netcoreapp2.1\pizztsuka.csproj.CoreCompileInputs.cache
+D:\aula c#\Aulas-C-\OO\pizztsuka\obj\Debug\netcoreapp2.1\pizztsuka.AssemblyInfoInputs.cache
+D:\aula c#\Aulas-C-\OO\pizztsuka\obj\Debug\netcoreapp2.1\pizztsuka.AssemblyInfo.cs
+D:\aula c#\Aulas-C-\OO\pizztsuka\obj\Debug\netcoreapp2.1\pizztsuka.dll
+D:\aula c#\Aulas-C-\OO\pizztsuka\obj\Debug\netcoreapp2.1\pizztsuka.pdb

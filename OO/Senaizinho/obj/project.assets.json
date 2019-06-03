@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aula c#\\oo\\senaizinho\\senaizinho.csproj",
+      "projectUniqueName": "D:\\aula c#\\Aulas-C-\\OO\\senaizinho\\senaizinho.csproj",
       "projectName": "senaizinho",
-      "projectPath": "D:\\aula c#\\oo\\senaizinho\\senaizinho.csproj",
+      "projectPath": "D:\\aula c#\\Aulas-C-\\OO\\senaizinho\\senaizinho.csproj",
       "packagesPath": "C:\\Users\\39298212810\\.nuget\\packages\\",
-      "outputPath": "D:\\aula c#\\oo\\senaizinho\\obj\\",
+      "outputPath": "D:\\aula c#\\Aulas-C-\\OO\\senaizinho\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

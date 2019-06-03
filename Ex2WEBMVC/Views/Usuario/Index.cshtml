@@ -1,0 +1,28 @@
+@{
+    Layout = "MasterPage";
+    ViewBag.Title = "Cadastro de Usuarios";
+}
+<h1>Bem vindo</h1>
+<div class="container">
+    <form action="/Usuario/Cadastrar" method="POST">
+        <div class="form-group">
+            <label>
+                Nome
+                <input type="text" name="nome" class="form-control">
+            </label>
+            <label>
+                Email
+                <input type="text" name="email" class="form-control">
+            </label>
+            <label>
+                Senha
+                <input type="text" name="senha" class="form-control">
+            </label>
+            <label>
+                Data de Nascimento
+                <input type="date" name="datanascimento" class="form-control">
+            </label>
+        </div>
+        <input type="submit" value="Cadastrar" class="btn btn-primary">
+    </form>
+</div>

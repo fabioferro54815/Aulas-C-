@@ -9,3 +9,14 @@ C:\Users\39298212810\Desktop\Fabio\aula c#\App Media\obj\Debug\netcoreapp2.1\App
 C:\Users\39298212810\Desktop\Fabio\aula c#\App Media\obj\Debug\netcoreapp2.1\App Media.AssemblyInfo.cs
 C:\Users\39298212810\Desktop\Fabio\aula c#\App Media\obj\Debug\netcoreapp2.1\App Media.dll
 C:\Users\39298212810\Desktop\Fabio\aula c#\App Media\obj\Debug\netcoreapp2.1\App Media.pdb
+D:\aula c#\Aulas-C-\App Media\bin\Debug\netcoreapp2.1\App Media.deps.json
+D:\aula c#\Aulas-C-\App Media\bin\Debug\netcoreapp2.1\App Media.runtimeconfig.json
+D:\aula c#\Aulas-C-\App Media\bin\Debug\netcoreapp2.1\App Media.runtimeconfig.dev.json
+D:\aula c#\Aulas-C-\App Media\bin\Debug\netcoreapp2.1\App Media.dll
+D:\aula c#\Aulas-C-\App Media\bin\Debug\netcoreapp2.1\App Media.pdb
+D:\aula c#\Aulas-C-\App Media\obj\Debug\netcoreapp2.1\App Media.csprojAssemblyReference.cache
+D:\aula c#\Aulas-C-\App Media\obj\Debug\netcoreapp2.1\App Media.csproj.CoreCompileInputs.cache
+D:\aula c#\Aulas-C-\App Media\obj\Debug\netcoreapp2.1\App Media.AssemblyInfoInputs.cache
+D:\aula c#\Aulas-C-\App Media\obj\Debug\netcoreapp2.1\App Media.AssemblyInfo.cs
+D:\aula c#\Aulas-C-\App Media\obj\Debug\netcoreapp2.1\App Media.dll
+D:\aula c#\Aulas-C-\App Media\obj\Debug\netcoreapp2.1\App Media.pdb

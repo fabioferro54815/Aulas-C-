@@ -1,0 +1,17 @@
+@model System.Collections.Generic.List<WEBMVC.Models.Musica>
+@{
+    ViewData["Title"] = "Bem-Vindo(a)!";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Mensagem"]</h3>
+
+@foreach (var i in @Model){
+    <p><strong>Titulo:</strong></p>
+    <p>@i.Titulo</p>
+    <p><strong>Estilo:</strong></p>
+    <p>@i.Estilo</p>
+    <p><strong>Compositor:</strong></p>
+    <p>@i.Compositor</p>
+    <br />
+}

@@ -9,3 +9,14 @@ D:\aula c#\oo\senaizinho\bin\Debug\netcoreapp2.1\senaizinho.dll
 D:\aula c#\oo\senaizinho\bin\Debug\netcoreapp2.1\senaizinho.pdb
 D:\aula c#\oo\senaizinho\obj\Debug\netcoreapp2.1\senaizinho.dll
 D:\aula c#\oo\senaizinho\obj\Debug\netcoreapp2.1\senaizinho.pdb
+D:\aula c#\Aulas-C-\OO\senaizinho\bin\Debug\netcoreapp2.1\senaizinho.deps.json
+D:\aula c#\Aulas-C-\OO\senaizinho\bin\Debug\netcoreapp2.1\senaizinho.runtimeconfig.json
+D:\aula c#\Aulas-C-\OO\senaizinho\bin\Debug\netcoreapp2.1\senaizinho.runtimeconfig.dev.json
+D:\aula c#\Aulas-C-\OO\senaizinho\bin\Debug\netcoreapp2.1\senaizinho.dll
+D:\aula c#\Aulas-C-\OO\senaizinho\bin\Debug\netcoreapp2.1\senaizinho.pdb
+D:\aula c#\Aulas-C-\OO\senaizinho\obj\Debug\netcoreapp2.1\senaizinho.csprojAssemblyReference.cache
+D:\aula c#\Aulas-C-\OO\senaizinho\obj\Debug\netcoreapp2.1\senaizinho.csproj.CoreCompileInputs.cache
+D:\aula c#\Aulas-C-\OO\senaizinho\obj\Debug\netcoreapp2.1\senaizinho.AssemblyInfoInputs.cache
+D:\aula c#\Aulas-C-\OO\senaizinho\obj\Debug\netcoreapp2.1\senaizinho.AssemblyInfo.cs
+D:\aula c#\Aulas-C-\OO\senaizinho\obj\Debug\netcoreapp2.1\senaizinho.dll
+D:\aula c#\Aulas-C-\OO\senaizinho\obj\Debug\netcoreapp2.1\senaizinho.pdb

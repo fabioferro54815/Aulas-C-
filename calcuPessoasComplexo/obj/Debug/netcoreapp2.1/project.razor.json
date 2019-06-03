@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "d:\\aula c#\\calcuPessoasComplexo\\calcuPessoasComplexo.csproj",
+  "ProjectFilePath": "d:\\aula c#\\Aulas-C-\\calcuPessoasComplexo\\calcuPessoasComplexo.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }

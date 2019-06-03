@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\39298212810\\Desktop\\Fabio\\aula c#\\App Media\\App Media.csproj",
+      "projectUniqueName": "D:\\aula c#\\Aulas-C-\\App Media\\App Media.csproj",
       "projectName": "App Media",
-      "projectPath": "C:\\Users\\39298212810\\Desktop\\Fabio\\aula c#\\App Media\\App Media.csproj",
+      "projectPath": "D:\\aula c#\\Aulas-C-\\App Media\\App Media.csproj",
       "packagesPath": "C:\\Users\\39298212810\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\39298212810\\Desktop\\Fabio\\aula c#\\App Media\\obj\\",
+      "outputPath": "D:\\aula c#\\Aulas-C-\\App Media\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

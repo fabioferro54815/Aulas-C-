@@ -1,0 +1,40 @@
+@model ESTACIONAMENTO.MVC.ViewModel.CadastroViewModel
+@{
+    Layout = "MasterPage";
+    ViewBag.Title = "Registro da entrada de carros";
+}
+
+<h1>Cadastro de carros</h1>
+<div class="container">
+    <form method="POST" action="Cadastro/Cadastrar">
+        <div class="form-group">
+            <label for="nome" >
+                Nome:
+                <input type="text" name="nome" id="nome" class="form-control">
+            </label>
+            <label for="placa">
+                Email:
+                <input type="text" name="placa" id="placa" class="form-control">
+            </label>
+            <label for="marca">
+                Marca:
+                <select name="marca" id="marca" class="form-control">
+                    @foreach(var marca in Model.Marcas){
+                            <option value=@marca.Nome>@marca.Nome</option>
+                        }
+                </select>
+            </label>
+            <label for="modelo">
+                Modelo:
+                <select name="modelo" id="modelo" class="form-control">
+                    @foreach(var modelo in Model.Modelos){
+                            <option value=@modelo.Nome>@modelo.Nome</option>
+                        }
+                </select>
+            </label>
+        </div>
+            
+            <input type="submit" value="Cadastrar" class="btn btn-primary">
+        
+    </form>
+</div>

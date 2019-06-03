@@ -1,0 +1,11 @@
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\obj\Debug\netcoreapp2.1\Senaizinho_2_Manha.csprojAssemblyReference.cache
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\obj\Debug\netcoreapp2.1\Senaizinho_2_Manha.csproj.CoreCompileInputs.cache
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\obj\Debug\netcoreapp2.1\Senaizinho_2_Manha.AssemblyInfoInputs.cache
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\obj\Debug\netcoreapp2.1\Senaizinho_2_Manha.AssemblyInfo.cs
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\bin\Debug\netcoreapp2.1\Senaizinho_2_Manha.deps.json
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\bin\Debug\netcoreapp2.1\Senaizinho_2_Manha.runtimeconfig.json
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\bin\Debug\netcoreapp2.1\Senaizinho_2_Manha.runtimeconfig.dev.json
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\bin\Debug\netcoreapp2.1\Senaizinho_2_Manha.dll
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\bin\Debug\netcoreapp2.1\Senaizinho_2_Manha.pdb
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\obj\Debug\netcoreapp2.1\Senaizinho_2_Manha.dll
+D:\aula c#\Aulas-C-\OO\Senaizinho_2_Manha\obj\Debug\netcoreapp2.1\Senaizinho_2_Manha.pdb
